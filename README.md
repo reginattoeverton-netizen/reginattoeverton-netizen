@@ -2,7 +2,7 @@
 
 Meu nome é Everton!
 
-Cursando TDS no Senai Maringá, É um prazer conhecer.
+Cursando TDS no Senai Maringá, É um prazer conhece-lo.
 
 
 
